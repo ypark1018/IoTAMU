@@ -1,0 +1,35 @@
+python3 iot_table.py exp1_1.cap Camera1_1.csv Camera1
+python3 iot_table.py exp1_1.cap CameraTest_1.csv CameraTest
+python3 iot_table.py exp1_1.cap Camera2_1.csv Camera2
+python3 iot_table.py exp1_1.cap Camera3_1.csv Camera3
+python3 iot_table.py exp1_1.cap Lightbulb1_1.csv Lightbulb1
+python3 iot_table.py exp1_1.cap LightbulbTest_1.csv LightbulbTest
+python3 iot_table.py exp1_1.cap Lightbulb2_1.csv Lightbulb2
+python3 iot_table.py exp1_1.cap Switch1_1.csv Switch1
+python3 iot_table.py exp1_1.cap SwitchTest_1.csv SwitchTest
+python3 iot_table.py exp1_1.cap Switch2_1.csv Switch2
+python3 iot_table.py exp1_1.cap Switch3_1.csv Switch3
+
+python3 iot_table.py exp1_2.cap Camera1_2.csv Camera1
+python3 iot_table.py exp1_2.cap CameraTest_2.csv CameraTest
+python3 iot_table.py exp1_2.cap Camera2_2.csv Camera2
+python3 iot_table.py exp1_2.cap Camera3_2.csv Camera3
+python3 iot_table.py exp1_2.cap Lightbulb1_2.csv Lightbulb1
+python3 iot_table.py exp1_2.cap LightbulbTest_2.csv LightbulbTest
+python3 iot_table.py exp1_2.cap Lightbulb2_2.csv Lightbulb2
+python3 iot_table.py exp1_2.cap Switch1_2.csv Switch1
+python3 iot_table.py exp1_2.cap SwitchTest_2.csv SwitchTest
+python3 iot_table.py exp1_2.cap Switch2_2.csv Switch2
+python3 iot_table.py exp1_2.cap Switch3_2.csv Switch3
+
+python3 iot_table.py exp1_3.cap Camera1_3.csv Camera1
+python3 iot_table.py exp1_3.cap CameraTest_3.csv CameraTest
+python3 iot_table.py exp1_3.cap Camera2_3.csv Camera2
+python3 iot_table.py exp1_3.cap Camera3_3.csv Camera3
+python3 iot_table.py exp1_3.cap Lightbulb1_3.csv Lightbulb1
+python3 iot_table.py exp1_3.cap LightbulbTest_3.csv LightbulbTest
+python3 iot_table.py exp1_3.cap Lightbulb2_3.csv Lightbulb2
+python3 iot_table.py exp1_3.cap Switch1_3.csv Switch1
+python3 iot_table.py exp1_3.cap SwitchTest_3.csv SwitchTest
+python3 iot_table.py exp1_3.cap Switch2_3.csv Switch2
+python3 iot_table.py exp1_3.cap Switch3_3.csv Switch3

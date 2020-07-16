@@ -1,0 +1,20 @@
+# This file describes the network interfaces available on your system
+# and how to activate them. For more information, see interfaces(5).
+# /etc/network/interfaces
+
+source /etc/network/interfaces.d/*
+
+# The loopback network interface
+auto lo
+iface lo inet loopback
+
+# set wlan0 in access point mode
+auto wlan0
+iface wlan0 inet static
+hostapd /etc/hostapd/hostpad.conf
+address 192.168.1.254
+netmask 255.255.255.0
+
+auto br0
+iface br0 inet dhcp
+bridge_ports eth1 wlan0
